@@ -4,4 +4,3 @@ trigger:
 steps:
 
 - template: sample-template-step.yml
-   
